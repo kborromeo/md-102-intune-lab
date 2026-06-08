@@ -3,7 +3,7 @@
 
 > **Certification Target:** Microsoft MD-102 — Endpoint Administrator Associate  
 > **Lab Status:** 🟢 Active & Continuously Expanding  
-> **Author:** Kory Borromeo | [linkedin.com/in/koryborromeo] |
+> **Author:** Kory Borromeo | linkedin.com/in/koryborromeo 
 
 ---
 
